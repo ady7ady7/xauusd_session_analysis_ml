@@ -6,7 +6,7 @@ direction on spot Gold (XAUUSD). Built using 5 years of real m5 OHLCV data
 (2021-2026) from Dukascopy, stored in a PostgreSQL database.
 
 ## Files
-`01_data_import_eda.ipynb` - EDA, feature engineering, statistical validation, and XGBoost classification + assessment
+`final_project.ipynb` - EDA, feature engineering, statistical validation, and XGBoost classification + assessment
 
 ## Data
 - Source: Dukascopy (via dukascopy-node + custom ETL pipeline)
